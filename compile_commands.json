@@ -1,0 +1,107 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-Wall",
+      "-pedantic",
+      "-I/usr/lib/wx/include/gtk3-unicode-3.2",
+      "-I/usr/include/wx-3.2",
+      "-DWXUSINGDLL",
+      "-D__WXGTK3__",
+      "-D__WXGTK__",
+      "-D_FILE_OFFSET_BITS=64",
+      "-o",
+      "build/timer.o",
+      "src/timer.cpp"
+    ],
+    "directory": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake",
+    "file": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/src/timer.cpp",
+    "output": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/build/timer.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-Wall",
+      "-pedantic",
+      "-I/usr/lib/wx/include/gtk3-unicode-3.2",
+      "-I/usr/include/wx-3.2",
+      "-DWXUSINGDLL",
+      "-D__WXGTK3__",
+      "-D__WXGTK__",
+      "-D_FILE_OFFSET_BITS=64",
+      "-o",
+      "build/snake.o",
+      "src/snake.cpp"
+    ],
+    "directory": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake",
+    "file": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/src/snake.cpp",
+    "output": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/build/snake.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-Wall",
+      "-pedantic",
+      "-I/usr/lib/wx/include/gtk3-unicode-3.2",
+      "-I/usr/include/wx-3.2",
+      "-DWXUSINGDLL",
+      "-D__WXGTK3__",
+      "-D__WXGTK__",
+      "-D_FILE_OFFSET_BITS=64",
+      "-o",
+      "build/snake_app.o",
+      "src/snake_app.cpp"
+    ],
+    "directory": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake",
+    "file": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/src/snake_app.cpp",
+    "output": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/build/snake_app.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-Wall",
+      "-pedantic",
+      "-I/usr/lib/wx/include/gtk3-unicode-3.2",
+      "-I/usr/include/wx-3.2",
+      "-DWXUSINGDLL",
+      "-D__WXGTK3__",
+      "-D__WXGTK__",
+      "-D_FILE_OFFSET_BITS=64",
+      "-o",
+      "build/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake",
+    "file": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/src/main.cpp",
+    "output": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/build/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-Wall",
+      "-pedantic",
+      "-I/usr/lib/wx/include/gtk3-unicode-3.2",
+      "-I/usr/include/wx-3.2",
+      "-DWXUSINGDLL",
+      "-D__WXGTK3__",
+      "-D__WXGTK__",
+      "-D_FILE_OFFSET_BITS=64",
+      "-o",
+      "build/frame.o",
+      "src/frame.cpp"
+    ],
+    "directory": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake",
+    "file": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/src/frame.cpp",
+    "output": "/mnt/daten/Dokumente/workspace/cpp/tests/wxWidgets/snake/build/frame.o"
+  }
+]
