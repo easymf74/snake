@@ -1,7 +1,6 @@
 // snake.cpp
 
 #include "snake.hpp"
-#include <iostream>
 
 Snake::Snake(wxFrame* parent, unsigned int size)
   :wxPanel(parent),size(size){
@@ -82,7 +81,6 @@ void Snake::on_key(wxKeyEvent &evt){
   if (key == WXK_SPACE)
       pause();
   
-  //std::cout << dir_x << " | " << dir_y << std::endl;
 }
 
 void Snake::show(){
